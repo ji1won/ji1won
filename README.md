@@ -18,11 +18,22 @@ I am studying with gratitude to learn.I have a very positive and passionate pers
 
 I want to be a developer who constantly challenges and grows.🍀
 
+
 # 📝 Certificate
 ◽ JLPT N2
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◽ TOEIC : 
+
+🔜 ADsP, 정보처리기사
+
+
+# activity
+https://www.newsac-application.kr/
+
+**'디지털 새싹'** instructor
+
+
+# Social Link
+https://www.instagram.com/ji1w0n/
+
+
