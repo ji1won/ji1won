@@ -26,9 +26,7 @@ Python package : Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience ë
 
 library : OpenCV, MediaPipe, Scikit-learn
 
-model : YoloV7
-
-experience : Raspberry Pi, Unity, Blender
+experience : Raspberry Pi, Unity, Blender, yoloV5, yoloV7
 
 
 # ğŸ“ Certificate
