@@ -8,25 +8,42 @@
      https://www.ulsan.ac.kr/kor/Main.do
 
 
-Hi there!!( ´͈ ᵕ `͈ )◞♡
+> Hi there!!( ´͈ ᵕ `͈ )◞♡
+>
+> I want to be a front-end developer!💻
+>
+> I have project experience across some areas.
+>
+> I am studying with gratitude to learn.I have a very positive and passionate personality.
+>
+> I want to be a developer who constantly challenges and grows.🍀
 
-I want to be a front-end developer!💻
 
-I have project experience across some areas.
-
-I am studying with gratitude to learn.I have a very positive and passionate personality.
-
-I want to be a developer who constantly challenges and grows.🍀
+.
 
 
 # Skills
-Python, JAVA, C, CSS, HTML, JavaScript
+| | |
+| ------ | ------ |
+| language | Python, JAVA, C, CSS, HTML, JavaScript |
+| library | OpenCV, MediaPipe, Scikit-learn |
+| experience |  Raspberry Pi, Unity, Blender, yoloV5, yoloV7 |
+| Python package | Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask |
 
-Python package : Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask
 
-library : OpenCV, MediaPipe, Scikit-learn
+.
 
-experience : Raspberry Pi, Unity, Blender, yoloV5, yoloV7
+
+# 🏅 Honors and Awards 
+
+| title | grade |
+| ------ | ------ |
+| 울산대학교 맞춤형 AI교육 기본과정 | 최우수상 |
+| 제3차 USG·AI 데이터 문제해결 제조혁신 경진대회 | 장려상 |
+
+
+.
+
 
 
 # 📝 Certificate
@@ -37,11 +54,17 @@ experience : Raspberry Pi, Unity, Blender, yoloV5, yoloV7
 🔜 ADsP, 정보처리기사
 
 
+.
+
+
 # activity
 
 ◽ '디지털 새싹' instructor -> https://www.newsac-application.kr/
 
 ◽ AI Study group 
+
+.
+
 
 # Social Link
 🍨 Instagram : https://www.instagram.com/ji1w0n/
