@@ -19,6 +19,18 @@ I am studying with gratitude to learn.I have a very positive and passionate pers
 I want to be a developer who constantly challenges and grows.🍀
 
 
+# Skills
+Python, JAVA, C, CSS, HTML, JavaScript
+
+Python package : Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask
+
+library : OpenCV, MediaPipe, Scikit-learn
+
+model : YoloV7
+
+experience : Raspberry Pi, Unity, Blender
+
+
 # 📝 Certificate
 ◽ JLPT N2
 
@@ -28,12 +40,12 @@ I want to be a developer who constantly challenges and grows.🍀
 
 
 # activity
-https://www.newsac-application.kr/
 
-**'디지털 새싹'** instructor
+◽ '디지털 새싹' instructor -> https://www.newsac-application.kr/
 
+◽ AI Study group 
 
 # Social Link
-https://www.instagram.com/ji1w0n/
+🍨 Instagram : https://www.instagram.com/ji1w0n/
 
 
