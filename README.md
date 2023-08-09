@@ -25,28 +25,39 @@
 # Skills
 | | |
 | ------ | ------ |
-| language | Python, JAVA, C, CSS, HTML, JavaScript |
-| library | OpenCV, MediaPipe, Scikit-learn |
-| experience |  Raspberry Pi, Unity, Blender, yoloV5, yoloV7 |
-| Python package | Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask |
+| `language` | Python, JAVA, C, CSS, HTML, JavaScript |
+| `library` | OpenCV, MediaPipe, Scikit-learn |
+| `experience` |  Raspberry Pi, Unity, Blender, yoloV5, yoloV7 |
+| `Python package` | Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask |
 
 
 .
 
 
-# 🏅 Honors and Awards 
+#  Honors and Awards 
 
-| title | grade |
+| title | grade🏅 |
 | ------ | ------ |
-| 울산대학교 맞춤형 AI교육 기본과정 | 최우수상 |
-| 제3차 USG·AI 데이터 문제해결 제조혁신 경진대회 | 장려상 |
+| **울산대학교 맞춤형 AI교육 기본과정** | **최우수상** |
+| **제3차 USG·AI 데이터 문제해결 제조혁신 경진대회** | **장려상** |
+
+
+.
+# Project
+| Link      | Explanation                                        |
+| ------------ | -------------------------------------------------- |
+| https://github.com/ji1won/Graduation_Project | Upper body posture classification and statistical program using AI |
+| https://github.com/ji1won/NetworkSoftware | Creating a chat program with network socket programming |
+| https://github.com/ji1won/SummerProject | Project experience using OpenCV, YoloV5, and Unity |
+| https://github.com/ji1won/AIFactory-Competition | Creating an AI model using manufacturing AI data for manufacturing innovation |
+| https://github.com/ji1won/JAVA_mini_project | Creating a simple calculator using JAVA |
+| https://github.com/ji1won/Data_Science_project | Data analysis project using Python and data science module |
 
 
 .
 
 
-
-# 📝 Certificate
+# Certificate
 ◽ JLPT N2
 
 ◽ TOEIC : 
