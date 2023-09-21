@@ -76,6 +76,8 @@
 
 ◽ AI Study group 
 
+◽ UMC (https://www.makeus.in/umc)
+
 .
 
 
