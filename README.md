@@ -52,6 +52,8 @@
 | https://github.com/ji1won/AIFactory-Competition | Creating an AI model using manufacturing AI data for manufacturing innovation |
 | https://github.com/ji1won/JAVA_mini_project | Creating a simple calculator using JAVA |
 | https://github.com/ji1won/Data_Science_project | Data analysis project using Python and data science module |
+| https://github.com/ji1won/JSP_board_withoutDB | Create DB-free bulletin boards using JSP  |
+
 
 
 .
@@ -64,7 +66,7 @@
 
 ◽ ADsP
 
-🔜 정보처리기사
+🔜 정보처리기사(필기합격)
 
 
 .
