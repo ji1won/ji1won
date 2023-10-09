@@ -82,6 +82,6 @@
 
 
 # Social Link
-🍨 Instagram : https://www.instagram.com/ji1w0n/
+🍨 Instagram 
 
 
