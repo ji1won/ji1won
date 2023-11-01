@@ -26,8 +26,8 @@
 | | |
 | ------ | ------ |
 | `language` | Python, JAVA, C, CSS, HTML, JavaScript |
-| `library` | OpenCV, MediaPipe, Scikit-learn |
-| `experience` |  Raspberry Pi, Unity, Blender, yoloV5, yoloV7 |
+| `library` | OpenCV, MediaPipe, Scikit-learn, Pytorch |
+| `experience` | Machine Learning, Deep Learning, Raspberry Pi, Unity, Blender, yoloV5, yoloV7 |
 | `Python package` | Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask |
 
 
