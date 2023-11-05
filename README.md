@@ -53,6 +53,7 @@
 | https://github.com/ji1won/JAVA_mini_project | Creating a simple calculator using JAVA |
 | https://github.com/ji1won/Data_Science_project | Data analysis project using Python and data science module |
 | https://github.com/ji1won/JSP_board_withoutDB | Create DB-free bulletin boards using JSP  |
+| https://github.com/ji1won/CIFAR-100_model | Image classification using CNNs  |
 
 
 
