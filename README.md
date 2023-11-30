@@ -26,7 +26,7 @@
 | | |
 | ------ | ------ |
 | `language` | Python, JAVA, C, CSS, HTML, JavaScript |
-| `library` | OpenCV, MediaPipe, Scikit-learn, Pytorch |
+| `library` | OpenCV, MediaPipe, Scikit-learn, Pytorch, react |
 | `experience` | Machine Learning, Deep Learning, Raspberry Pi, Unity, Blender, yoloV5, yoloV7 |
 | `Python package` | Numpy, Pandas, seaborn, matplotlib, scikit-learn, datascience 모듈, Flask |
 
@@ -65,9 +65,8 @@
 
 ◽ TOEIC : 705
 
-◽ ADsP
+◽ ADsP(데이터분석 준전문가)
 
-🔜 정보처리기사(필기합격)
 
 
 .
