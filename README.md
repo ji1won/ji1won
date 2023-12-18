@@ -32,6 +32,7 @@
 
 
 .
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flowing1)](https://solved.ac/flowing1/)
 
 
 #  Honors and Awards 
