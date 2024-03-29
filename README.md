@@ -14,7 +14,7 @@
 
 > Hi there!!( ´͈ ᵕ `͈ )◞♡
 >
-> I want to be a Smart Phone-app developer!💻
+> I want to be a WEB developer!💻
 >
 > I have project experience across some areas.
 >
