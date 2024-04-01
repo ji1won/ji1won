@@ -3,11 +3,11 @@
 ### ジ ウォン
 ![image](https://github.com/ji1won/ji1won/assets/141638383/ebf48ed2-2e72-4197-bd9d-0af734603e79)
 
-🌸 Student of the Department of IT Convergence at UOU
+🌸 Major : Department of IT Convergence at UOU
     
      https://www.ulsan.ac.kr/kor/Main.do
 
-🌸 Age : 22 years
+🌸 Age : 22 years (2001)
 
 🌸 MBTI : INFJ
 
