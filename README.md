@@ -7,7 +7,7 @@
     
      https://www.ulsan.ac.kr/kor/Main.do
 
-🌸 Age : 22 years (2001)
+🌸 Age : 23 years (2001)
 
 🌸 MBTI : INFJ
 
@@ -73,6 +73,8 @@
 
 ◽ TOEIC : 705
 
+◽ TOEIC SPEAKING : 
+
 ◽ ADsP(데이터분석 준전문가)
 
 
@@ -88,6 +90,7 @@
 
 ◽ UMC (https://www.makeus.in/umc)
 
+◽ 2024년 한일생활체육교류 본부 통역
 .
 
 
