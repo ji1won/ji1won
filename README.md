@@ -95,6 +95,6 @@
 
 
 # Social Link
-🍨 Instagram 
+🍨 Instagram : https://www.instagram.com/jii1won/
 
 
