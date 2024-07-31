@@ -1,7 +1,7 @@
 # Jiwon Bang
 
 ### ジ ウォン
-![image](https://github.com/ji1won/ji1won/assets/141638383/ebf48ed2-2e72-4197-bd9d-0af734603e79)
+<img src="https://github.com/user-attachments/assets/28414a83-1aa5-45aa-be21-22437f2dd7a5" width="224" height="288"/>
 
 🌸 Major : Department of IT Convergence at UOU
     
