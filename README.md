@@ -71,7 +71,7 @@
 # Certificate
 ◽ JLPT N2
 
-◽ TOEIC : 705
+◽ TOEIC : 720
 
 ◽ TOEIC SPEAKING : IH(140)
 
