@@ -7,14 +7,14 @@
     
      https://www.ulsan.ac.kr/kor/Main.do
 
-🌸 Age : 23 years (2001)
+🌸 Age :2001年
 
 🌸 MBTI : INFJ
 
 
 > Hi there!!( ´͈ ᵕ `͈ )◞♡
 >
-> I want to be a WEB developer!💻
+> I graduated Ulsan University
 >
 > I have project experience across some areas.
 >
